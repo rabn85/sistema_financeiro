@@ -1,0 +1,14 @@
+[
+    {
+        "data": "2025-01-20 01:25:26",
+        "tipo": "receita",
+        "descricao": "Arrecada\u00e7\u00e3o",
+        "valor": 10000.0
+    },
+    {
+        "data": "2025-01-20 01:25:44",
+        "tipo": "despesa",
+        "descricao": "Despesa com sal\u00e1rio",
+        "valor": 5000.0
+    }
+]
